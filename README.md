@@ -28,7 +28,7 @@
 - Знаком с такими инструментами, как Jest и React Testing Library
 - Имею опыт работы с ESLint, знаком с настройкой и настройками конфигурации, для улучшения качества кода.
 - Ещё имею навыки в настройке Docker, nginx.
-- Знаю Fastapi, Django на Python и Echo на Go
+- Знаю Fastapi на Python и Echo на Go
 - Есть опыт работы с SQL-базами данных: Postgresql, MySQL, Microsoft SQL, и NO-SQL: Mongodb.
 - Есть опыт работы с Redis для кеширования.
   
