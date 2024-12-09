@@ -8,6 +8,9 @@
 <p style="text-align: start">
    📫 Telegram: <a href='https://t.me/Bot_py_kt'>@Bot_py_kt</a>
 </p>
+<p style="text-align: start">
+   📫 ВКонтакте: <a href='https://vk.com/feetache'>Евгений Смирнов</a>
+</p>
 
 ***
 
