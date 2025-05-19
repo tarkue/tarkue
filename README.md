@@ -1,4 +1,4 @@
-# Evgenij Smirnov
+# Evgenij Smirnov | 3+ года опыта
 ### Frontend Developer | React NextJS Redux TypeScript | Fullstack
 
 ## Контактная информация:
