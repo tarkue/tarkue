@@ -1,5 +1,4 @@
-# Evgenij Smirnov | 3+ лет опыта
-### Fullstack
+# Evgenij Smirnov | Fullstack
 
 ## Контактная информация:
 <p style="text-align: start">
